@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "bird.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-                .font(/*@START_MENU_TOKEN@*/.largeTitle/*@END_MENU_TOKEN@*/)
+                .font(/*@START_MENU_TOKEN@*/.largeTitle/*@END_MENU_TOKEN@*/) 
             Text("He gives strength to the weary and increases the power of the weak. Even youths grow tired and weary, and young men stumble and fall; but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.")
                 .font(.title)
                 .fontWeight(.bold)
